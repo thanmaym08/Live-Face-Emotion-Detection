@@ -16,14 +16,23 @@ A real-time face emotion detection system using **MobileNetV2**, trained on a cu
 ## 📂 Project Structure  
 
 📦 Live Face Emotion Detection
+
 ┣ 📂 dataset/ # Custom dataset for training
+
 ┣ 📂 models/ # Trained model files (.h5)
+
 ┣ 📂 src/
+
 ┃ ┣ 📜 real_time_emotion.py # Real-time emotion detection script
+
 ┃ ┣ 📜 train_model.py # Training script for MobileNetV2
+
 ┃ ┣ 📜 requirements.txt # Required dependencies
+
 ┃ ┗ 📜 README.md
+
 ┣ 📂 venv/ # Virtual environment (ignored in Git)
+
 ┗ 📜 .gitignore
 
 
